@@ -1,1 +1,1 @@
-# full-jump_game
+# jump game like geometry dash with pygame
